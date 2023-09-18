@@ -1,1 +1,1 @@
-Using GCC to compile  simple programs and studying the compilation process' steps
+Using GCC to compile  simple programs and observing the compilation process' steps
