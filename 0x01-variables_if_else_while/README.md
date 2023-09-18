@@ -1,1 +1,1 @@
-Learn about arithmetic operators, relational operators,  logical operators (or sometimes called, boolean operators), comments, declaring variables and loops in **C language**
+Learn about arithmetic operators, relational operators,  logical operators (or sometimes called, boolean operators), comments, declaring variables and loops, ASCII character set, purpose of the gcc flags -m32 and -m64 in **C language**
