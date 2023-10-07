@@ -1,4 +1,5 @@
 #include <stdlib.h>
+
 /**
  * free_grid - Frees a 2-dimensional grid previously created by alloc_grid.
  * @grid: The pointer to the 2D grid to be freed.
